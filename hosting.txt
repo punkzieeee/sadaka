@@ -1,0 +1,3 @@
+sadaka-donor
+pass web: sadaka_BiPel
+pass db: 7ZT7x(YYRJ2P]%PN
