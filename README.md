@@ -1,4 +1,4 @@
-# sadaka
+# SADAKA
 Projek Akhir Mata Kuliah Desain & Pemrogramman Web
 
 Dibuat oleh:
